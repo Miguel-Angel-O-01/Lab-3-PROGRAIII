@@ -1,0 +1,14 @@
+# Archivos de compilación y empaquetado
+target/
+
+# Entorno y variables secretas
+.env
+*.env
+
+# IntelliJ IDEA completo
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
