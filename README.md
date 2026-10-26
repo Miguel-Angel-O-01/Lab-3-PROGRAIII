@@ -2,7 +2,7 @@
 
 **Asignatura:** Programación III (PROG3-I)  
 **Ciclo:** 02-2026  
-**Estudiante:** Miguel Angel Cruz Olmedo
+**Estudiante:** Miguel Angel Cruz Olmedo<br>
 **Carnet:** 27-2723-2025
 
 ---
